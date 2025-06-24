@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "B:\\Files\\UnrealEnginePlugins\\ProceduralRopePlugin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\Files\\UnrealEnginePlugins\\ProceduralRopePlugin\\Source\\ProceduralRopePluginEditor\\Public\\FProceduralRopeComponentVisualizer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Source\\ProceduralRopePluginEditor\\Public\\FProceduralRopeComponentVisualizer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\Files\\UnrealEnginePlugins\\ProceduralRopePlugin\\Source\\ProceduralRopePluginEditor\\Private\\FProceduralRopeComponentVisualizer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Source\\ProceduralRopePluginEditor\\Private\\FProceduralRopeComponentVisualizer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\Files\\UnrealEnginePlugins\\ProceduralRopePlugin\\Source\\ProceduralRopePlugin\\Private\\ProceduralRopeComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Source\\ProceduralRopePlugin\\Private\\ProceduralRopeComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\Files\\UnrealEnginePlugins\\ProceduralRopePlugin\\Source\\ProceduralRopePlugin\\Public\\ProceduralRopeComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Source\\ProceduralRopePlugin\\Public\\ProceduralRopeComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\Files\\UnrealEnginePlugins\\ProceduralRopePlugin\\Source\\ProceduralRopePluginEditor\\ProceduralRopePluginEditor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Source\\ProceduralRopePluginEditor\\ProceduralRopePluginEditor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\Files\\UnrealEnginePlugins\\ProceduralRopePlugin\\Source\\ProceduralRopePluginEditor\\ProceduralRopePluginEditor.Build.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Source\\ProceduralRopePluginEditor\\ProceduralRopePluginEditor.Build.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\Files\\UnrealEnginePlugins\\ProceduralRopePlugin\\Source\\ProceduralRopePlugin\\ProceduralRopePlugin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Source\\ProceduralRopePlugin\\ProceduralRopePlugin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\Files\\UnrealEnginePlugins\\ProceduralRopePlugin\\Source\\ProceduralRopePlugin\\ProceduralRopePlugin.Build.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Source\\ProceduralRopePlugin\\ProceduralRopePlugin.Build.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\Files\\UnrealEnginePlugins\\ProceduralRopePlugin\\Source\\ProceduralRopePluginEditor\\ProceduralRopePluginEditor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Source\\ProceduralRopePluginEditor\\ProceduralRopePluginEditor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\Files\\UnrealEnginePlugins\\ProceduralRopePlugin\\Source\\ProceduralRopePlugin\\ProceduralRopePlugin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Source\\ProceduralRopePlugin\\ProceduralRopePlugin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\Files\\UnrealEnginePlugins\\ProceduralRopePlugin\\ProceduralRopePlugin.uplugin||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProceduralRopePlugin.uplugin||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProceduralRopePlugin.uplugin",
+              "DocumentMoniker": "B:\\Files\\UnrealEnginePlugins\\ProceduralRopePlugin\\ProceduralRopePlugin.uplugin",
+              "RelativeDocumentMoniker": "ProceduralRopePlugin.uplugin",
+              "ToolTip": "B:\\Files\\UnrealEnginePlugins\\ProceduralRopePlugin\\ProceduralRopePlugin.uplugin",
+              "RelativeToolTip": "ProceduralRopePlugin.uplugin",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-24T17:03:42.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProceduralRopeComponent.cpp",
+              "DocumentMoniker": "B:\\Files\\UnrealEnginePlugins\\ProceduralRopePlugin\\Source\\ProceduralRopePlugin\\Private\\ProceduralRopeComponent.cpp",
+              "RelativeDocumentMoniker": "Source\\ProceduralRopePlugin\\Private\\ProceduralRopeComponent.cpp",
+              "ToolTip": "B:\\Files\\UnrealEnginePlugins\\ProceduralRopePlugin\\Source\\ProceduralRopePlugin\\Private\\ProceduralRopeComponent.cpp",
+              "RelativeToolTip": "Source\\ProceduralRopePlugin\\Private\\ProceduralRopeComponent.cpp",
+              "ViewState": "AgIAAB4BAAAAAAAAAAAAAGkBAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-24T17:03:50.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProceduralRopeComponent.h",
+              "DocumentMoniker": "B:\\Files\\UnrealEnginePlugins\\ProceduralRopePlugin\\Source\\ProceduralRopePlugin\\Public\\ProceduralRopeComponent.h",
+              "RelativeDocumentMoniker": "Source\\ProceduralRopePlugin\\Public\\ProceduralRopeComponent.h",
+              "ToolTip": "B:\\Files\\UnrealEnginePlugins\\ProceduralRopePlugin\\Source\\ProceduralRopePlugin\\Public\\ProceduralRopeComponent.h",
+              "RelativeToolTip": "Source\\ProceduralRopePlugin\\Public\\ProceduralRopeComponent.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-24T17:03:50.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProceduralRopePlugin.Build.cs",
+              "DocumentMoniker": "B:\\Files\\UnrealEnginePlugins\\ProceduralRopePlugin\\Source\\ProceduralRopePlugin\\ProceduralRopePlugin.Build.cs",
+              "RelativeDocumentMoniker": "Source\\ProceduralRopePlugin\\ProceduralRopePlugin.Build.cs",
+              "ToolTip": "B:\\Files\\UnrealEnginePlugins\\ProceduralRopePlugin\\Source\\ProceduralRopePlugin\\ProceduralRopePlugin.Build.cs",
+              "RelativeToolTip": "Source\\ProceduralRopePlugin\\ProceduralRopePlugin.Build.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T17:03:48.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProceduralRopePlugin.cpp",
+              "DocumentMoniker": "B:\\Files\\UnrealEnginePlugins\\ProceduralRopePlugin\\Source\\ProceduralRopePlugin\\ProceduralRopePlugin.cpp",
+              "RelativeDocumentMoniker": "Source\\ProceduralRopePlugin\\ProceduralRopePlugin.cpp",
+              "ToolTip": "B:\\Files\\UnrealEnginePlugins\\ProceduralRopePlugin\\Source\\ProceduralRopePlugin\\ProceduralRopePlugin.cpp",
+              "RelativeToolTip": "Source\\ProceduralRopePlugin\\ProceduralRopePlugin.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-24T17:03:48.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProceduralRopePluginEditor.cpp",
+              "DocumentMoniker": "B:\\Files\\UnrealEnginePlugins\\ProceduralRopePlugin\\Source\\ProceduralRopePluginEditor\\ProceduralRopePluginEditor.cpp",
+              "RelativeDocumentMoniker": "Source\\ProceduralRopePluginEditor\\ProceduralRopePluginEditor.cpp",
+              "ToolTip": "B:\\Files\\UnrealEnginePlugins\\ProceduralRopePlugin\\Source\\ProceduralRopePluginEditor\\ProceduralRopePluginEditor.cpp",
+              "RelativeToolTip": "Source\\ProceduralRopePluginEditor\\ProceduralRopePluginEditor.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-24T17:03:44.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProceduralRopePluginEditor.h",
+              "DocumentMoniker": "B:\\Files\\UnrealEnginePlugins\\ProceduralRopePlugin\\Source\\ProceduralRopePluginEditor\\ProceduralRopePluginEditor.h",
+              "RelativeDocumentMoniker": "Source\\ProceduralRopePluginEditor\\ProceduralRopePluginEditor.h",
+              "ToolTip": "B:\\Files\\UnrealEnginePlugins\\ProceduralRopePlugin\\Source\\ProceduralRopePluginEditor\\ProceduralRopePluginEditor.h",
+              "RelativeToolTip": "Source\\ProceduralRopePluginEditor\\ProceduralRopePluginEditor.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-24T17:03:43.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProceduralRopePluginEditor.Build.cs",
+              "DocumentMoniker": "B:\\Files\\UnrealEnginePlugins\\ProceduralRopePlugin\\Source\\ProceduralRopePluginEditor\\ProceduralRopePluginEditor.Build.cs",
+              "RelativeDocumentMoniker": "Source\\ProceduralRopePluginEditor\\ProceduralRopePluginEditor.Build.cs",
+              "ToolTip": "B:\\Files\\UnrealEnginePlugins\\ProceduralRopePlugin\\Source\\ProceduralRopePluginEditor\\ProceduralRopePluginEditor.Build.cs",
+              "RelativeToolTip": "Source\\ProceduralRopePluginEditor\\ProceduralRopePluginEditor.Build.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T16:57:51.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProceduralRopePlugin.h",
+              "DocumentMoniker": "B:\\Files\\UnrealEnginePlugins\\ProceduralRopePlugin\\Source\\ProceduralRopePlugin\\ProceduralRopePlugin.h",
+              "RelativeDocumentMoniker": "Source\\ProceduralRopePlugin\\ProceduralRopePlugin.h",
+              "ToolTip": "B:\\Files\\UnrealEnginePlugins\\ProceduralRopePlugin\\Source\\ProceduralRopePlugin\\ProceduralRopePlugin.h",
+              "RelativeToolTip": "Source\\ProceduralRopePlugin\\ProceduralRopePlugin.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-24T16:57:45.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FProceduralRopeComponentVisualizer.h",
+              "DocumentMoniker": "B:\\Files\\UnrealEnginePlugins\\ProceduralRopePlugin\\Source\\ProceduralRopePluginEditor\\Public\\FProceduralRopeComponentVisualizer.h",
+              "RelativeDocumentMoniker": "Source\\ProceduralRopePluginEditor\\Public\\FProceduralRopeComponentVisualizer.h",
+              "ToolTip": "B:\\Files\\UnrealEnginePlugins\\ProceduralRopePlugin\\Source\\ProceduralRopePluginEditor\\Public\\FProceduralRopeComponentVisualizer.h",
+              "RelativeToolTip": "Source\\ProceduralRopePluginEditor\\Public\\FProceduralRopeComponentVisualizer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-24T16:57:41.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FProceduralRopeComponentVisualizer.cpp",
+              "DocumentMoniker": "B:\\Files\\UnrealEnginePlugins\\ProceduralRopePlugin\\Source\\ProceduralRopePluginEditor\\Private\\FProceduralRopeComponentVisualizer.cpp",
+              "RelativeDocumentMoniker": "Source\\ProceduralRopePluginEditor\\Private\\FProceduralRopeComponentVisualizer.cpp",
+              "ToolTip": "B:\\Files\\UnrealEnginePlugins\\ProceduralRopePlugin\\Source\\ProceduralRopePluginEditor\\Private\\FProceduralRopeComponentVisualizer.cpp",
+              "RelativeToolTip": "Source\\ProceduralRopePluginEditor\\Private\\FProceduralRopeComponentVisualizer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-24T16:57:36.83Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

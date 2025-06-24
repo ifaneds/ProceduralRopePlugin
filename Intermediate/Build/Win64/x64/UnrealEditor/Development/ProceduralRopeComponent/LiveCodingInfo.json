@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ProceduralRopeComponent.cpp.obj": [
+			"PerModuleInline.gen.cpp.obj",
+			"ProceduralRopeComponent.cpp.obj"
+		]
+	}
+}

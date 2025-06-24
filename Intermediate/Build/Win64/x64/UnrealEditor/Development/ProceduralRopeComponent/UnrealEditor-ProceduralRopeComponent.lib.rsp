@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ProceduralRopeComponent.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"B:\Files\UEGDB\Week2Day3\Intermediate\Build\Win64\x64\Week2Day3Editor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
+"B:\Files\UnrealEnginePlugins\ProceduralRopeComponent\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProceduralRopeComponent\Module.ProceduralRopeComponent.cpp.obj"
+"B:\Files\UnrealEnginePlugins\ProceduralRopeComponent\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProceduralRopeComponent\Default.rc2.res"
+/OUT:"B:\Files\UnrealEnginePlugins\ProceduralRopeComponent\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProceduralRopeComponent\UnrealEditor-ProceduralRopeComponent.lib"

@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Source",
+    "\\Source\\ProceduralRopePlugin",
+    "\\Source\\ProceduralRopePluginEditor",
+    "\\Source\\ProceduralRopePluginEditor\\Private",
+    "\\Source\\ProceduralRopePluginEditor\\Public",
+    "\\Source\\ProceduralRopePlugin\\Private",
+    "\\Source\\ProceduralRopePlugin\\Public"
+  ],
+  "SelectedNode": "\\Source\\ProceduralRopePlugin\\ProceduralRopePlugin.Build.cs",
+  "PreviewInSolutionExplorer": false
+}

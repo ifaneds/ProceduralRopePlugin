@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "b:\\files\\unrealengineplugins\\proceduralropecomponent\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\proceduralropecomponent\\module.proceduralropecomponent.cpp",
+        "ProvidedModule": "",
+        "PCH": "b:\\files\\uegdb\\week2day3\\intermediate\\build\\win64\\x64\\week2day3editor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "b:\\files\\unrealengineplugins\\proceduralropecomponent\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\proceduralropecomponent\\definitions.proceduralropecomponent.h",
+            "b:\\files\\unrealengineplugins\\proceduralropecomponent\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\proceduralropecomponent\\permoduleinline.gen.cpp",
+            "b:\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl",
+            "b:\\files\\unrealengineplugins\\proceduralropecomponent\\source\\proceduralropecomponent\\private\\proceduralropecomponent.cpp",
+            "b:\\files\\unrealengineplugins\\proceduralropecomponent\\source\\proceduralropecomponent\\public\\proceduralropecomponent.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
