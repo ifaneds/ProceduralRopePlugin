@@ -1,6 +1,6 @@
 # Procedural Ropes/Cables
 
-A brief description of what your plugin does.
+Simulate a rope or cable with natural droop/sway.
 
 ## Demo
 
@@ -8,7 +8,7 @@ https://youtu.be/eeggjZnDIcE?si=LZX5uEOFYuQngGCB
 
 ## Installation
 
-Download the zip and extract it to your plugins folder.
+Download the zip and extract it to your plugins folder. Tested in UE5.5.4.
 
 ## Usage
 
